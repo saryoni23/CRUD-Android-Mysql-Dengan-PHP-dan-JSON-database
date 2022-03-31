@@ -1,12 +1,12 @@
 /*
- * By 		: Jhohannes H Purba
- * URL 		: jho.batagrams.com
- * email 	: jhohannespurba@gmail.com
- * facebook	: facebook.com/jhohannespurba
- * twitter 	: twitter.com/jhohannespurba
- * */
+ * By 		: Indra Saryoni Simanjuntak
+ * URL 		: https://saryoni23.github.io/
+ * email 	: indrasaryoni@gmail.com
+ * facebook	: facebook.com/indrasaryoni23
+ * twitter 	: twitter.com/Isaryoni
+ */
 
-package jhohannes.purba;
+package saryoni23.juntak;
 
 import java.util.ArrayList;
 

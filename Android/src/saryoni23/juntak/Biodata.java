@@ -1,15 +1,15 @@
 /*
- * By 		: Jhohannes H Purba
- * URL 		: jho.batagrams.com
- * email 	: jhohannespurba@gmail.com
- * facebook	: facebook.com/jhohannespurba
- * twitter 	: twitter.com/jhohannespurba
- * */
+ * By 		: Indra Saryoni Simanjuntak
+ * URL 		: https://saryoni23.github.io/
+ * email 	: indrasaryoni@gmail.com
+ * facebook	: facebook.com/indrasaryoni23
+ * twitter 	: twitter.com/Isaryoni
+ */
 
 package jhohannes.purba;
 
 public class Biodata extends Koneksi {
-	String URL = "http://10.0.2.2/tips_crud_android_json_mysql/server.php";
+	String URL = "http://127.0.0.1/crud/server.php";
 	String url = "";
 	String response = "";
 
